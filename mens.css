@@ -1,0 +1,40 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+footer
+{
+  background-color: rgb(27, 27, 16);
+}
+.checked {
+    color: orange;
+  }
+nav
+{
+    padding: 0px;
+}
+li
+{
+    margin-left:150px;
+    
+}
+img
+{
+    
+    height: 200px;
+    width: 200px;
+}
+
+.nav-link
+{
+    color: rgb(39, 121, 146);
+    border-top: 110px;
+   
+}
+.card:hover {
+    -ms-transform: scale(0.5); /* IE 9 */
+    -webkit-transform: scale(0.5); /* Safari 3-8 */
+    transform: scale(1.1); 
+    transition: 0.5s all ease-in-out;
+  }
